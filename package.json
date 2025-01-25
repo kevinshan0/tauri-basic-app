@@ -15,16 +15,32 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.48.0",
     "@tauri-apps/api": "^2",
-    "@tauri-apps/plugin-opener": "^2"
+    "@tauri-apps/plugin-opener": "^2",
+    "dotenv": "^16.4.7",
+    "drizzle-orm": "^0.38.4",
+    "postgres": "^3.4.5",
+    "zod-form-data": "^2.0.5"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.6",
-    "@sveltejs/kit": "^2.9.0",
+    "@sveltejs/kit": "^2.16.1",
     "@sveltejs/vite-plugin-svelte": "^5.0.0",
     "@tauri-apps/cli": "^2",
+    "autoprefixer": "^10.4.20",
+    "bits-ui": "^0.22.0",
+    "clsx": "^2.1.1",
+    "drizzle-kit": "^0.30.2",
+    "formsnap": "^1.0.1",
     "svelte": "^5.0.0",
     "svelte-check": "^4.0.0",
+    "sveltekit-superforms": "^2.23.1",
+    "tailwind-merge": "^2.6.0",
+    "tailwind-variants": "^0.3.1",
+    "tailwindcss": "^3.4.17",
+    "tailwindcss-animate": "^1.0.7",
+    "tsx": "^4.19.2",
     "typescript": "~5.6.2",
-    "vite": "^6.0.3"
+    "vite": "^6.0.3",
+    "zod": "^3.24.1"
   }
 }
